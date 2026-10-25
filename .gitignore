@@ -219,3 +219,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated model files
+gpt2-sentiment/
+gpt2-sentiment-int8/
